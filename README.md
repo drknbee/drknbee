@@ -119,7 +119,7 @@ I want to get back my C++ fluency.
 <a href="https://www.kaggle.com/drknbee" target="_blank">
 <img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
 </a>
-<a href="https://stackoverflow.com/users/drknbee" target="_blank">
+<a href="https://stackoverflow.com/users/20913829/drknbee" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>
 <a href="https://codepen.com/drknbee" target="_blank">
@@ -128,10 +128,10 @@ I want to get back my C++ fluency.
 <a href="https://hashnode.com/@drknbee" target="_blank">
 <img src=https://img.shields.io/badge/hashnode-%232962FF.svg?&style=for-the-badge&logo=hashnode&logoColor=white alt=hashnode style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.youtube.com/user/drknbee" target="_blank">
+<a href="https://www.youtube.com/@drknbee" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>
-<a href="https://medium.com/drknbee" target="_blank">
+<a href="https://medium.com/@drknbee" target="_blank">
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>  
 </div>  
