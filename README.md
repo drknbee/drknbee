@@ -1,7 +1,7 @@
 ### Hi there 👋
 ✨ _special_ ✨
 
-### Hi, I am Jean
+### Hi, I am drknbee
 I want to get back my C++ fluency.  
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
