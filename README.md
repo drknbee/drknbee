@@ -1,5 +1,5 @@
 ### Hi there 👋
-✨ _special_ ✨
+✨ ✨
 
 ### Hi, I am drknbee
 I want to get back my C++ fluency.  
@@ -9,7 +9,7 @@ I want to get back my C++ fluency.
   
 
 ### <div align="center">2023 Resolutions as a programmer 
-👨‍💻 To-dos🚀 min 1 commit / day</div>  
+👨‍💻 To-dos 🚀 min 1 commit / day</div>  
   
 
 - 🔭 I’m currently working on mastering [Google Cloud](https://cloud.google.com/training/machinelearning-ai)  
